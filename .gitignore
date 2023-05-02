@@ -9,3 +9,4 @@ node_modules/
 # Ignore package-lock.json
 package-lock.json
 
+cypress/reports/
